@@ -5,7 +5,7 @@ Detects Parkinson's disease from biomedical data using deep learning models (VGG
 A deep learning project to detect Parkinson's disease from biomedical MRI data using CNN models. Built as part of B.Tech final year project (CSE - AI & Data Science).
 
 ## Live Demo
-[View on Netlify]()
+[View on Netlify](https://automatedparkinsonsdisease.netlify.app)
 
 ## About the Project
 Parkinson's disease is a neurological disorder that's hard to detect early. This project automates the detection process using MRI scan data and deep learning, reducing dependency on manual diagnosis.
